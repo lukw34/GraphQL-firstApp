@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "24",
+      "firstName": "ABill",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "26",
+      "firstName": "Debil",
+      "age": 22,
+      "companyId": "3"
+    },
+    {
+      "id": "27",
+      "firstName": "DBill",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+      "firstName": "New user",
+      "age": 24,
+      "id": "ndDJToS"
+    }
+  ],
+  "companies": [
+    {
+      "id": "2",
+      "name": "A",
+      "description": "A-description"
+    },
+    {
+      "id": "3",
+      "name": "B",
+      "description": "B-description"
+    }
+  ]
+}
